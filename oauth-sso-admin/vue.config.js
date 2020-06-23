@@ -20,7 +20,7 @@ module.exports = {
     },
     devServer: {
         /* 本地ip地址 */
-        host: "127.0.01",
+        host: "127.0.0.1",
         port: "8080",
         hot: true,
         /* 自动打开浏览器 */
